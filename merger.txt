@@ -5,9 +5,9 @@
 
 
 
-some random text
-at line 8-9
-to check how merge works
+some random text and some added text
+at line 8-9 bakbdka
+to check how merge works in first branch
 
 
 
