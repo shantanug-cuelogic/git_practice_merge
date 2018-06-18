@@ -11,6 +11,7 @@ to check how merge works in first branch
 
 
 
+<<<<<<< HEAD
 merger test
 
 
@@ -23,4 +24,6 @@ merger test
 
 
 
+
+<<<<<<< HEAD
 second update 
